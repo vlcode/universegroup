@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /other-html-files/
+Disallow: /test/
+
+Sitemap: http://universegroup.uz/sitemap.xml
+Host: universegroup.uz

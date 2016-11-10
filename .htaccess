@@ -1,0 +1,13 @@
+AddDefaultCharset utf-8
+
+DirectoryIndex index.php
+
+ErrorDocument 401 http://universegroup.uz/page-401.php
+ErrorDocument 403 http://universegroup.uz/page-403.php
+ErrorDocument 404 http://universegroup.uz/page-404.php
+ErrorDocument 500 http://universegroup.uz/page-500.php
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.(.+)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+

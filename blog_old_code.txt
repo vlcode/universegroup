@@ -1,0 +1,403 @@
+<div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="vam-stoit-uchit-biznes-v-londone.php"><img src="img/blog/vam-stoit-uchit-biznes-v-londone.jpg" alt="Вам стоит учить бизнес в Лондоне"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">Вам стоит учить бизнес в Лондоне </li>
+
+
+                  <li class="read-more"><a href="vam-stoit-uchit-biznes-v-londone.php" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="eid-al-fitr.php#start"><img src="img/blog/eid-al-fitr.jpg" alt="Что нужно знать студенту о месяце Рамазан"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">Что нужно знать студенту о месяце Рамазан</li>
+                  
+
+                  <li class="read-more"><a href="eid-al-fitr.php#start" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+
+
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="udivitelnie-veshi-v-londone-besplatno.php#start"><img src="img/blog/udivitelnie-veshi-v-londone-besplatno.jpg" alt="Удивительные вещи, которые можно сделать в Лондоне бесплатно"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">Удивительные вещи, которые можно сделать в Лондоне бесплатно</li>
+                  
+
+                  <li class="read-more"><a href="udivitelnie-veshi-v-londone-besplatno.php#start" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+
+
+                </div>
+
+
+
+
+<!--	    	<h3><a name="austria"></a>Австрия</h3>-->
+				<div class="row">
+
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="9-sovetov-po-napisaniyu-cv.php"><img src="img/blog/9-sovetov-po-napisaniyu-cv.jpg" alt="9 советов по написанию успешного резюме"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">9 советов по написанию успешного резюме </li>
+
+
+                  <li class="read-more"><a href="9-sovetov-po-napisaniyu-cv.php" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="10-sekretov-poliglot.php#start"><img src="img/blog/10-sekretov-poliglot.jpg" alt="10 секретов полиглота: иностранный язык, как родной"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">10 секретов полиглота: иностранный язык, как родной</li>
+                  
+
+                  <li class="read-more"><a href="10-sekretov-poliglot.php#start" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+
+
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="6-sposobov-sozdat-domashnyuyu-atmosferu.php#start"><img src="img/blog/6-sposobov-sozdat-domashnyuyu-atmosferu.jpg" alt="6 способов создать домашнюю атмосферу в общежитии"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">6 способов создать домашнюю атмосферу в общежитии</li>
+                  
+
+                  <li class="read-more"><a href="6-sposobov-sozdat-domashnyuyu-atmosferu.php#start" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+
+
+                </div>
+
+<!-- 2nd string -->
+
+        <div class="row">
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="7-luchshih-prilojeniy-dlya-studentov.php#start"><img src="img/blog/7-luchshih-prilojeniy-dlya-studentov.jpg" alt="7 лучших бесплатных приложений для студентов"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">7 лучших бесплатных приложений <br> для студентов</li> 
+                  <!-- <li>Зальцбург, Австрия</li> -->
+
+                  <li class="read-more"><a href="7-luchshih-prilojeniy-dlya-studentov.php#start" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="kak-stat-otlichnikov-zarubejom.php#start"><img src="img/blog/kak-stat-otlichnikov-zarubejom.jpg" alt="Как стать отличником, будучи иностранным студентом"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">Как стать отличником, будучи иностранным студентом</li>
+                  
+
+                  <li class="read-more"><a href="kak-stat-otlichnikov-zarubejom.php#start" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="kak-podgotovitsya-k-ekzamenu.php#start"><img src="img/blog/kak-podgotovitsya-k-ekzamenu.jpg" alt="Как подготовиться к экзамену и тесту"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">Как подготовиться к экзамену и <br> тесту</li>
+                  <!-- <li>Инсбрук, Австрия</li> -->
+
+                  <li class="read-more"><a href="kak-podgotovitsya-k-ekzamenu.php#start" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+
+
+        </div>
+
+
+<!-- End of 2nd string  -->
+
+<!-- 3rd string -->
+
+        <div class="row">
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="kak-izbejat-stress-na-ekzamene.php#start"><img src="img/blog/kak-izbejat-stress-na-ekzamene.jpg" alt="Как избежать стресс в период экзаменов"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">Как избежать стресс в период экзаменов</li>
+                  <!-- <li>Зальцбург, Австрия</li> -->
+
+                  <li class="read-more"><a href="kak-izbejat-stress-na-ekzamene.php#start" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="kak-pitatsya-chtobi-uspeshno-sdat-ekzameni.php#start"><img src="img/blog/kak-pitatsya-chtobi-uspeshno-sdat-ekzameni.jpg" alt="Как питаться, чтобы успешно сдать экзамены"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">Как питаться, чтобы успешно сдать экзамены</li>
+                  
+
+                  <li class="read-more"><a href="kak-pitatsya-chtobi-uspeshno-sdat-ekzameni.php#start" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="5-alternativ-uchebe-v-biblioteke.php#start"><img src="img/blog/5-alternativ-uchebe-v-biblioteke.jpg" alt="5 альтернатив учёбе в библиотеке"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">5 альтернатив учёбе в библиотеке</li>
+                  <!-- <li>Инсбрук, Австрия</li> -->
+
+                  <li class="read-more"><a href="5-alternativ-uchebe-v-biblioteke.php#start" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+
+
+        </div>
+
+
+<!-- End of 3rd string  -->
+
+           
+<!-- 4th string -->
+
+        <div class="row">
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="5-veshey-kotorie-vi-govorite-sebe-chtobi-ne-uchitsya.php#start"><img src="img/blog/5-veshey-kotorie-vi-govorite-sebe-chtobi-ne-uchitsya.jpg" alt="5 вещей, которые вы говорите себе, чтобы не учиться"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">5 вещей, которые вы говорите себе, чтобы не учиться</li>
+                  <!-- <li>Зальцбург, Австрия</li> -->
+
+                  <li class="read-more"><a href="5-veshey-kotorie-vi-govorite-sebe-chtobi-ne-uchitsya.php#start" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="8-prostih-sovetov-dlya-uspexa-na-ekzamene.php#start"><img src="img/blog/8-prostih-sovetov-dlya-uspexa-na-ekzamene.jpg" alt="8 простых советов для успеха на экзамене"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">8 простых советов для успеха<br> на экзамене</li>
+                  
+
+                  <li class="read-more"><a href="8-prostih-sovetov-dlya-uspexa-na-ekzamene.php#start" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="12-korotkix-sovetov-dlya-uspehov-v-uchebe.php#start"><img src="img/blog/12-korotkix-sovetov-dlya-uspehov-v-uchebe.jpg" alt="12 коротких советов, гарантирующие успех в учебе"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">12 коротких советов, гарантирующие успех в учебе</li>
+                  <!-- <li>Инсбрук, Австрия</li> -->
+
+                  <li class="read-more"><a href="12-korotkix-sovetov-dlya-uspehov-v-uchebe.php#start" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+
+
+        </div>
+
+
+<!-- End of 4th string  -->     
+           
+                 
+                       
+                             
+<!-- 5th string -->
+
+        <div class="row">
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="8-sovetov-po-vijivaniyu-v-universitete.php#start"><img src="img/blog/8-sovetov-po-vijivaniyu-v-universitete.jpg" alt="8 советов по выживанию в первую неделю в университете"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">8 советов по выживанию в первую неделю в университете</li>
+                  <!-- <li>Зальцбург, Австрия</li> -->
+
+                  <li class="read-more"><a href="8-sovetov-po-vijivaniyu-v-universitete.php#start" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="kak-zavesti-novih-druzey-v-universitete.php#start"><img src="img/blog/kak-zavesti-novih-druzey-v-universitete.jpg" alt="Как завести новых друзей в университете"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">Как завести новых <br>друзей<br> в университете</li>
+                  
+
+                  <li class="read-more"><a href="kak-zavesti-novih-druzey-v-universitete.php#start" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="linkedin-pomojet-nayti-rabotu.php#start"><img src="img/blog/linkedin-pomojet-nayti-rabotu.jpg" alt="Как LinkedIn поможет вам найти работу"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">Как LinkedIn <br>поможет вам<br> найти работу</li>
+                  <!-- <li>Инсбрук, Австрия</li> -->
+
+                  <li class="read-more"><a href="linkedin-pomojet-nayti-rabotu.php#start" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+
+
+        </div>
+
+
+<!-- End of 5th string  -->      
+           
+                                               
+<!-- 6th string -->
+
+        <div class="row">
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="kak-sozdat-uspeshniy-profil-linkedin.php#start"><img src="img/blog/kak-sozdat-uspeshniy-profil-linkedin.jpg" alt="Как создать успешный профиль LinkedIn"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">Как создать успешный профиль LinkedIn</li>
+                  <!-- <li>Зальцбург, Австрия</li> -->
+
+                  <li class="read-more"><a href="kak-sozdat-uspeshniy-profil-linkedin.php#start" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="kak-preuspet-v-universitete-za-granicey.php#start"><img src="img/blog/kak-preuspet-v-universitete-za-granicey.jpg" alt="Как преуспеть в университете за границей"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">Как преуспеть в университете за границей</li>
+                  
+
+                  <li class="read-more"><a href="kak-preuspet-v-universitete-za-granicey.php#start" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+            <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <div class="portfolio-image">
+                <a href="5-sposobov-uluchshit-angliyskiy.php"><img src="img/blog/5engways.jpg" alt="5 интересных способов улучшить свой английский"></a>
+              </div>
+              <div class="portfolio-info">
+                <ul>
+                  <li class="portfolio-project-name">5 интересных способов улучшить свой <br> английский </li>
+
+
+                  <li class="read-more"><a href="5-sposobov-uluchshit-angliyskiy.php" class="btn">Подробнее</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
